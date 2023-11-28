@@ -161,7 +161,6 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 ![Alt text](<Screenshot 2023-11-28 153413.png>)
-![Alt text](<Screenshot 2023-11-26 153115.png>)
 
 
 ## RESULT:
