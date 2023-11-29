@@ -65,7 +65,7 @@ Publish the website in the LocalHost.
             display: inline;
             position: relative;
             color:cornflowerblue;
-            top:190px;
+            top:280px;
             
             font-family:Georgia;
             font-size: medium;
@@ -82,14 +82,14 @@ Publish the website in the LocalHost.
         .id {
             width:400px;
             position: relative;
-            top:180px;
+            top:280px;
             
         }
         .pub{
             color:azure;
             font-size: medium;
             position: relative;
-            top:155px;
+            top:250px;
             left:330px;
         }
         .ed{
@@ -97,7 +97,7 @@ Publish the website in the LocalHost.
             font-size: medium;
             font-family: Verdana;
             position:relative;
-            top:85px;
+            top:180px;
         
         }
         .subtitle{
@@ -109,7 +109,7 @@ Publish the website in the LocalHost.
         }
         .mypic{
             position: relative;
-            top: 135px;
+            top: 250px;
             left: 300px;
             width: 90px;
             height: 80px;
@@ -156,11 +156,13 @@ Publish the website in the LocalHost.
 
 </html>
 
+
 ```
 
 
 ## OUTPUT:
-![Alt text](<Screenshot 2023-11-28 153413.png>)
+![Screenshot 2023-11-29 092154](https://github.com/Haripriya132006/cover/assets/144870747/57c25585-a1a3-409a-9cd6-794f14387d12)
+
 
 
 ## RESULT:
