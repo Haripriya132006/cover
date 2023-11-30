@@ -35,7 +35,7 @@ Publish the website in the LocalHost.
 <html>
 
 <head>
-    <title>Music</title>
+    <title>IT</title>
     <style>
         .bookpage{
 
@@ -121,15 +121,15 @@ Publish the website in the LocalHost.
         <body>
         <div class="bookpage">
             <div class="insight">
-                MUSIC
+                SCOFT
             </div>
             <div class="hrstyle">
                 <hr style="color:blanchedalmond">
             </div>
             <div class="booktitle">
-                <h1>MUSIC PRODUCTION</h1></div>
+                <h1>INFORMATION TECHNOLOGY</h1></div>
             <div class="subtitle">
-                 book on FL studio workings
+                 Bloom of technology 
             </div>
             <div class="subtitle">
                  Top seller of 2023
@@ -162,8 +162,7 @@ Publish the website in the LocalHost.
 
 ## OUTPUT:
 
-![Screenshot 2023-11-29 092154](https://github.com/Haripriya132006/cover/assets/144870747/3749c487-1224-4b1b-8bab-c26c17eebc92)
-
+![Screenshot 2023-11-29 092154](https://github.com/Haripriya132006/cover/assets/144870747/4dafd753-d1de-4403-b40c-7e0113eda0cc)
 
 
 ## RESULT:
