@@ -10,7 +10,7 @@ To design a book front cover page using HTML and CSS.
 Create a Django Admin project.
 
 ### Step 2:
-Create an app in the Django interface.
+Create an app in the Django interface. 
 
 ### Step 3:
 Create a folder named 'static' in the app folder.
